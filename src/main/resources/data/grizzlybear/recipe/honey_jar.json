@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "item": "minecraft:honey_bottle" },
+    { "item": "minecraft:honey_bottle" },
+    { "item": "minecraft:honeycomb" }
+  ],
+  "result": {
+    "id": "grizzlybear:honey_jar",
+    "count": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "entity.grizzlybear.grizzly_bear": "Grizzly Bear",
+  "item.grizzlybear.grizzly_bear_spawn_egg": "Grizzly Bear Spawn Egg",
+  "item.grizzlybear.honey_jar": "Jar of Honey",
+  "message.grizzlybear.honey_progress": "Honey given: %s/%s",
+  "message.grizzlybear.pacified": "The bear will no longer attack you"
+}

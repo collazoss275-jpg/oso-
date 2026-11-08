@@ -1,0 +1,7 @@
+{
+  "entity.grizzlybear.grizzly_bear": "Oso Pardo",
+  "item.grizzlybear.grizzly_bear_spawn_egg": "Huevo generador de oso pardo",
+  "item.grizzlybear.honey_jar": "Bote de miel",
+  "message.grizzlybear.honey_progress": "Miel dada: %s/%s",
+  "message.grizzlybear.pacified": "El oso ya no te atacará"
+}
